@@ -1,5 +1,6 @@
 # Tuxedo::Css::Rails
 
+A gem to simplify the setup process of the [Tuxedo CSS](https://github.com/ericanafziger/tuxedo-css) framework.
 
 ## Installation
 

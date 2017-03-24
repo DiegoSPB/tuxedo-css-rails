@@ -26,6 +26,7 @@ Import Tuxedo styles in `app/assets/stylesheets/application.scss`:
 
 ```scss
 @import "tuxedo-css";
+@import "threejs"; 
 ```
 
 Make sure the file has `.scss` extension. If you have just generated a new Rails app,
@@ -44,6 +45,8 @@ Require Tuxedos Javascripts in `app/assets/javascripts/application.js`:
 ```js
 //= require jquery
 //= require tuxedo-css
+//= require three-render
+//= require three-minified
 ```
 
 
